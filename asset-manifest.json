@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LMS-project/static/css/main.2bd13573.css",
+    "main.js": "/LMS-project/static/js/main.91084afd.js",
+    "static/js/787.cda612ba.chunk.js": "/LMS-project/static/js/787.cda612ba.chunk.js",
+    "index.html": "/LMS-project/index.html",
+    "main.2bd13573.css.map": "/LMS-project/static/css/main.2bd13573.css.map",
+    "main.91084afd.js.map": "/LMS-project/static/js/main.91084afd.js.map",
+    "787.cda612ba.chunk.js.map": "/LMS-project/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bd13573.css",
+    "static/js/main.91084afd.js"
+  ]
+}
