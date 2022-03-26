@@ -1,0 +1,14 @@
+{
+    "courses" : {
+        "data-science" : {
+            "course name" : "Data Science",
+            "imgURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolnLbegm6cjDz4M2y2kElHcP4V9o7exA6yQ&usqp=CAU",
+            "course levels" : {
+                "Step 1" : "Introduction to data science",
+                "Step 2" : "Applications of data science",
+                "Step 3" : "Classification and regression",
+                "Step 4" : "More on ML and DL"
+            }
+        }
+    }
+}
